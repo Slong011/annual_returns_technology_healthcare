@@ -13,4 +13,4 @@ This analysis compares the annual returns and volatility of two high-growth sect
 
 
 
-This report is for educational purposes only and does not constitute financial advice or recommendations.
+This academic project was created for educational purposes only. It is not affiliated with or endorsed by any financial institution. The funds mentioned are hypothetical and used for illustrative purposes only.
