@@ -11,6 +11,6 @@ This analysis compares the annual returns and volatility of two high-growth sect
 - Mean returns are 2.66 for Health Care and 2.02 for Technology, reflecting potential differences in reward.
 - Visualizations including box and whisker plots and line plots support these findings.
 
-## Disclaimer
+
 
 This report is for educational purposes only and does not constitute financial advice or recommendations.
